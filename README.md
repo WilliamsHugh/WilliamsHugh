@@ -70,10 +70,10 @@ root@williamshugh:~$ git shortlog -sn --all | head -10
 ```
 
 <!-- TOP REPOS BY COMMITS (via github-readme-stats) -->
-[![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamsHugh&theme=chartreuse-dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=CCCCCC&border_color=00FF41&langs_count=8)](https://github.com/WilliamsHugh)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamsHugh&theme=chartreuse-dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=00FF41&text_color=CCCCCC&border_color=00FF41&langs_count=8" height="165"/>
 
 <!-- OVERALL GITHUB STATS -->
-[![WilliamsHugh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilliamsHugh&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=CCCCCC&icon_color=00FF41&include_all_commits=true&count_private=true)](https://github.com/WilliamsHugh)
+<img src="https://github-readme-stats.vercel.app/api?username=WilliamsHugh&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=CCCCCC&icon_color=00FF41" height="165"/>
 
 </div>
 
@@ -87,8 +87,8 @@ root@williamshugh:~$ git shortlog -sn --all | head -10
 root@williamshugh:~$ ls -la ~/projects/ --sort=commits
 ```
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WilliamsHugh&repo=REPO_NAME_1&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=CCCCCC&icon_color=00FF41)](https://github.com/WilliamsHugh/TutorManagerProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WilliamsHugh&repo=REPO_NAME_2&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=CCCCCC&icon_color=00FF41)](https://github.com/WilliamsHugh/Todo-List)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WilliamsHugh&repo=TutorManagerProject&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=CCCCCC&icon_color=00FF41)](https://github.com/WilliamsHugh/TutorManagerProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WilliamsHugh&repo=Todo-List&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=CCCCCC&icon_color=00FF41)](https://github.com/WilliamsHugh/Todo-List)
 
 
 </div>
